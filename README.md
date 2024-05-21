@@ -21,6 +21,11 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 
 
 ## Portfolio Projects
+* Python
+* SQL
+  * COVID 19 Data Exploration
+  * Nashville Housing Data Cleaning
+* Power BI
 
 
 ## Education
