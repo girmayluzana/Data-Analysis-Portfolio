@@ -6,19 +6,19 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 
 This repository is to showcase skills, share projects and track my progress in Data Analytics/Data Science related topics.
 
-## Table of Contents
-* [About Me](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#about-me)
-* [Portfolio Projects](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#portfolio-projects)
+## [Table of Contents](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#table-of-contents)
+
+* [About Me](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#about-me)
+* [Portfolio Projects](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
     * Python
     * SQL
         * COVID 19 Data Exploration
         * Nashville Housing Data Cleaning
     * Power BI
-* [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#education)
 * [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#education)
   
-* [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#certificates)
-* [Contact](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#contact)
+* [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
+* [Contact](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#contacts)
 
 
 
