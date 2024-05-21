@@ -24,7 +24,7 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 * Python
 * SQL
   * COVID 19 Data Exploration
-  * Nashville Housing Data Cleaning
+  * [Nashville Housing Data Cleaning](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
 * Power BI
 
 
