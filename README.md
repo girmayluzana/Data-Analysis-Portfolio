@@ -15,6 +15,8 @@ This repository is to showcase skills, share projects and track my progress in D
         * Nashville Housing Data Cleaning
     * Power BI
 * [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#education)
+* [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#education)
+  
 * [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#certificates)
 * [Contact](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#contact)
 
