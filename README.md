@@ -1,4 +1,4 @@
-# Luzana Girmay - Data Analysis Portfolio
+# Luzana Girmay - Data Analyst Portfolio
 
   
 ## About Me
