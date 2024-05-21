@@ -8,11 +8,11 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 
 * [About Me](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#about-me)
 * [Portfolio Projects](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
-    * [Python](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#python)
-    * [SQL](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#sql)
+    * Python
+    * SQL
         * COVID 19 Data Exploration
         * Nashville Housing Data Cleaning
-    * [Power BI](https://github.com/girmayluzana/Data-Analysis-Portfolio/edit/main/README.md#power-bi)
+    * Power BI
 * [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#education)
   
 * [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
@@ -21,11 +21,11 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 
 
 ## Portfolio Projects
-  #### Python
-  #### SQL
+* Python
+* SQL
   * [COVID 19 Data Exploration](https://github.com/girmayluzana/Projects/blob/main/CovidProjectScript.sql)
   * [Nashville Housing Data Cleaning](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
-  #### Power BI
+* Power BI
 
 
 ## Education
