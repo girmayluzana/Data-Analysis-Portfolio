@@ -11,8 +11,8 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
     * Python
     * SQL
         * Patient Satisfaction and Experience Analysis
-        * Nashville Housing Data Cleaning
         * Healthcare Cost Analysis
+        * Nashville Housing Data Cleaning
     * Tableau
         * Patient Satisfaction and Experience Dashboard
         * Healthcare Cost Analysis Dashboard
@@ -26,10 +26,12 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 ## Portfolio Projects
 * Python
 * SQL
-  * [COVID 19 Data Exploration](https://github.com/girmayluzana/Projects/blob/main/CovidProjectScript.sql)
+  * Patient Satisfaction and Experience Analysis
+  * Healthcare Cost Analysis
   * [Nashville Housing Data Cleaning](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
-* Power BI
-    * [Covid Report](https://app.powerbi.com/groups/me/reports/41f01812-3399-4c68-80e6-726d88eebb07/ReportSection?experience=power-bi)
+* Tableau
+    * Patient Satisfaction and Experience Dashboard
+    * Healthcare Cost Analysis Dashboard
 
 
 ## Education
