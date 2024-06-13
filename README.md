@@ -10,10 +10,12 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 * [Portfolio Projects](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
     * Python
     * SQL
-        * COVID 19 Data Exploration
+        * Patient Satisfaction and Experience Analysis
         * Nashville Housing Data Cleaning
-    * Power BI
-        * Covid Report
+        * Healthcare Cost Analysis
+    * Tableau
+        * Patient Satisfaction and Experience Dashboard
+        * Healthcare Cost Analysis Dashboard
 * [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#education)
   
 * [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
