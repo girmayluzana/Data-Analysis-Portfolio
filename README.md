@@ -8,14 +8,12 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 
 * [About Me](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#about-me)
 * [Portfolio Projects](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
-    * Python
     * SQL
-        * Patient Satisfaction and Experience Analysis
-        * Healthcare Cost Analysis
-        * Nashville Housing Data Cleaning
+        * Patient Satisfaction and Experience Data
+        * Nashville Housing Data 
     * Tableau
         * Patient Satisfaction and Experience Dashboard
-        * Healthcare Cost Analysis Dashboard
+        * Emergency Room visits Dashboard
 * [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#education)
   
 * [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
@@ -26,12 +24,11 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 ## Portfolio Projects
 * Python
 * SQL
-  * Patient Satisfaction and Experience Analysis
-  * Healthcare Cost Analysis
-  * [Nashville Housing Data Cleaning](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
+  * Patient Satisfaction and Experience Data
+  * [Nashville Housing Data](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
 * Tableau
     * Patient Satisfaction and Experience Dashboard
-    * Healthcare Cost Analysis Dashboard
+    * Emergency Room Visits Dashboard
 
 
 ## Education
