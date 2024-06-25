@@ -13,12 +13,10 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
         * Nashville Housing Data 
     * Tableau
         * Patient Satisfaction and Experience Dashboard
-        * Emergency Room visits Dashboard
 * [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#education)
   
 * [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
 * [Contact](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#contacts)
-
 
 
 ## Portfolio Projects
@@ -27,8 +25,6 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
   * [Nashville Housing Data](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
 * Tableau
     * Patient Satisfaction and Experience Dashboard
-    * Emergency Room Visits Dashboard
-
 
 ## Education
 DePaul University<br>
@@ -42,8 +38,3 @@ Master of Data Science
 ## Contacts:
 LinkedIn: [Luzana Girmay](https://www.linkedin.com/in/girmay-luzana/) <br>
 Email: girmayluzana@gmail.com
-
-
-
-
-
