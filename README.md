@@ -10,7 +10,8 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 * [Portfolio Projects](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
     * SQL
         * Patient Satisfaction and Experience Data
-        * Nashville Housing Data 
+        * Nashville Housing Data
+        * COVID
     * Tableau
         * Patient Satisfaction and Experience Dashboard
         * Emergency Room Dashboard
