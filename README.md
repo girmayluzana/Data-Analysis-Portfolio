@@ -22,7 +22,7 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 
 ## Portfolio Projects
 * SQL
-  * Patient Satisfaction and Experience Data
+  * [Patient Satisfaction and Experience Data](https://github.com/girmayluzana/Projects/blob/main/HCAHPS_data_cleaning.sql)
   * [Nashville Housing Data](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
 * Tableau
     * Patient Satisfaction and Experience Dashboard
