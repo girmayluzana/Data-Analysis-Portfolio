@@ -13,6 +13,7 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
         * Nashville Housing Data 
     * Tableau
         * Patient Satisfaction and Experience Dashboard
+        * Emergency Room Dashboard
 * [Education](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#education)
   
 * [Certificates](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
