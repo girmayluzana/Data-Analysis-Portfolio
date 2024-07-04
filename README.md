@@ -27,8 +27,8 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
   * [Nashville Housing Data](https://github.com/girmayluzana/Projects/blob/main/CleaningDataScript.sql)
   * [COVID Data](https://github.com/girmayluzana/Projects/blob/main/CovidProjectScript.sql)
 * Tableau
-    * Patient Satisfaction and Experience Dashboard
-    * Emergency Room Dashboard
+    * [Patient Satisfaction and Experience Dashboard](https://public.tableau.com/app/profile/luzana.girmay/viz/HCAHPSPatientSatisfactionDashboard_17199044392750/HCAHPSDashboard)
+    * [Emergency Room Dashboard](https://public.tableau.com/app/profile/luzana.girmay/viz/EmergencyRoomVisits_17200967859780/EmergencyRoomVisits)
 
 ## Education
 DePaul University<br>
