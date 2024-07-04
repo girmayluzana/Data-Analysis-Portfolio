@@ -8,7 +8,7 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 
 * [About Me](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#about-me)
 * [Portfolio Projects](https://github.com/girmayluzana/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
-    * SQL
+    * [SQL](https://github.com/girmayluzana/Projects)
         * Patient Satisfaction and Experience Data
         * Nashville Housing Data
         * COVID
