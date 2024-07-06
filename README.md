@@ -34,7 +34,7 @@ Hi, I’m Luzana! I have a Bachelor’s degree in Information Technology and I a
 DePaul University<br>
 Bachelor of Science in Information Technology<br><br>
 Illinois Institute of Technology<br>
-Master of Data Science
+Master of Data Science | In progress
 
 ## Certificates:
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/CY9U9V2JCFEP)
